@@ -74,3 +74,20 @@ python run.py
 cd client
 npm run dev
 ```
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/648babc1-497f-4b91-b513-b0de1700f97c" />
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/418c135a-40cb-4df6-930f-adeac4c63c6c" />
+<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/1311b014-3af9-4861-bee6-0ee1bac24b38" />
+<img width="1600" height="744" alt="image" src="https://github.com/user-attachments/assets/4f9f55dc-6abe-4707-b062-573d4e7b1608" />
+<img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/d382b826-df77-4fc3-9589-173ec9462f41" />
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/6da3da34-a71a-4717-8b30-78e9210f3549" />
+<img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/6403ad54-ec22-4524-a06d-e55b5e63a760" />
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/66c07daa-d5cb-40db-b78b-4a629a1c1a32" />
+<img width="1600" height="811" alt="image" src="https://github.com/user-attachments/assets/a1b3df37-71dc-467a-970b-9541f4a3b6f6" />
+<img width="1600" height="787" alt="image" src="https://github.com/user-attachments/assets/1ed59423-e0c7-4570-bc62-f4a3105a749e" />
+
+
+
+
+
+
+
